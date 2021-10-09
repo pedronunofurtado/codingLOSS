@@ -1,3 +1,5 @@
+Pedro Furtado@UCoimbra
+
 This is preliminary code dump that I will be structuring and improving to become presentable.
 
 0. calling_MRI_CT_IDRID.m
